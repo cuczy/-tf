@@ -1,5 +1,5 @@
-# text_classtification_tf
-## 任务一
+# text_classtification_tf（复旦大学邱锡鹏老师的NLP入门练习）
+## 任务一、基于机器学习的文本分类
 实现基于logistic的文本分类
 
 ## 数据
